@@ -20,7 +20,7 @@ Identify missing value and outlier on the data, analyze the missing value type a
 
 ### Data Analysis
 
-Analyze the data by answer some questions regarding customer's behavior and room owner's behavior
+Analyze the data by answer some questions regarding customer's demographics and behavior.
 
 ### Conclusion and Recommendation
 
