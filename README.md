@@ -16,7 +16,7 @@ Understanding the meaning of each column in the data based on the provided data 
 
 ### Data Cleansing
 
-Identify missing value on the data, analyze the missing value type and explain the best way to handle them.
+Identify missing value and outlier on the data, analyze the missing value type and explain the best way to handle them.
 
 ### Data Analysis
 
