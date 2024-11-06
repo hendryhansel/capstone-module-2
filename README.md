@@ -25,7 +25,7 @@ Analyze the data by answer some questions regarding customer's behavior and room
 ### Conclusion and Recommendation
 
 Summary of the analysis and offers actionable recommendations for AirBnB and Room Owner
-Analysis Result in Interactive Dashboard: [Tableau Public]([https://public.tableau.com/views/PurwadhikaCapstoneModule2/AirBnBStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/SupermarketCustomersDashboard_17309010679980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Analysis Result in Interactive Dashboard: [Tableau Public](https://public.tableau.com/views/SupermarketCustomersDashboard_17309010679980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 
